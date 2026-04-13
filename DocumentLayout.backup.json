@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\models\\user_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\models\\user_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\services\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\services\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\services\\console.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\services\\console.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\services\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\services\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\assets\\ascii-art.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\assets\\ascii-art.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|c:\\users\\student\\desktop\\chant-option 1\\chant-option 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646F91-080F-4609-913A-DC1D130575E0}|Chant-Option 1\\Chant-Option 1.csproj|solutionrelative:chant-option 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ascii-art.txt",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Assets\\ascii-art.txt",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Assets\\ascii-art.txt",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Assets\\ascii-art.txt",
+              "RelativeToolTip": "Chant-Option 1\\Assets\\ascii-art.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-09T06:54:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\ResponseService.cs",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Services\\ResponseService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\ResponseService.cs",
+              "RelativeToolTip": "Chant-Option 1\\Services\\ResponseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:53:39.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Console.UI.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\Console.UI.cs",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Services\\Console.UI.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\Console.UI.cs",
+              "RelativeToolTip": "Chant-Option 1\\Services\\Console.UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:53:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Services\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Services\\AudioPlayer.cs",
+              "RelativeToolTip": "Chant-Option 1\\Services\\AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:53:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Profiles.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Models\\User_Profiles.cs",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Models\\User_Profiles.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Models\\User_Profiles.cs",
+              "RelativeToolTip": "Chant-Option 1\\Models\\User_Profiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:53:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Program.cs",
+              "RelativeDocumentMoniker": "Chant-Option 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Chant-Option 1\\Chant-Option 1\\Program.cs",
+              "RelativeToolTip": "Chant-Option 1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:47:49.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
